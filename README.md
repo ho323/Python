@@ -3,10 +3,10 @@
 
 ## Reference
 ### 파이썬 코딩도장
-![3](https://user-images.githubusercontent.com/86637300/135495158-e916d98c-80df-486f-8ac0-0d6ea77751c8.jpeg)
+<img width="248" alt="1" src="https://user-images.githubusercontent.com/86637300/135495844-91a23d99-d4e2-4b47-a6c1-56b25b99de1e.png">
 
 ### 파이썬 코딩의 기술
-![1](https://user-images.githubusercontent.com/86637300/135495101-0ea025f6-231d-4842-bb6d-bafd4fcc099a.jpg)
+<img width="246" alt="2" src="https://user-images.githubusercontent.com/86637300/135495857-f50fde66-bf5c-4e02-9f97-4d756d63beed.png">
 
 ### 파이썬 자료구조와 알고리즘 for beginner
-![2](https://user-images.githubusercontent.com/86637300/135495166-ef0c9618-4ba6-4b10-b8ef-f0ad8b629a3d.jpg)
+<img width="248" alt="3" src="https://user-images.githubusercontent.com/86637300/135495862-5e6ad6ea-f2ac-40d0-9e7c-af607ca94245.png">
